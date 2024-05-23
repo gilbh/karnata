@@ -8,3 +8,4 @@ Unless specified otherwise, the data provided in this repository is made availab
 The people involved with this project have been:
 - [Executive Board of karnata](http://karnata.org/team)
 - Krishnaprasada G and [Adishila Publications](https://adishila.com/) (text entry and correction)
+- Ka Ga Pa (TBA)
