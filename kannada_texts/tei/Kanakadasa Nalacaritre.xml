@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="ViVi">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="kan-Latn">Harihara-Pampashatakam</title>
+        <author xml:lang="kan-Latn">Pampa</author>
+        <principal>
+          <persName xml:id="AO" ref="http://viaf.org/viaf/372149294434280521495">
+            <forename>Andrew</forename>
+            <surname>Ollett</surname>
+          </persName>
+        </principal>
+        <respStmt>
+          <resp>Typing and proofreading</resp>
+          <orgName>Adishila Publications</orgName>
+          <persName>Krishnaprasada G.</persName>
+        </respStmt>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+			<lg n="1" met="met_value">
+				<l>śrīramaṇa sarasijadaḷākṣa mu</l>
+				<l>rāri sacarācarabharita duri</l>
+				<l>tāri nityānaṁda nirjaranikaradātāra</l>
+				<l>vārijāṁbaka varaguṇāśraya</l>
+				<l>mārapita vēdāṁtanuta sā</l>
+				<l>kāra cennigarāya pālisu jagake maṁgaḷava</l>
+			</lg>
+			<lg n="2" met="met_value">
+				<l>śaradhiśayana mukuṁda kaṁsā</l>
+				<l>suramathana suramaunivaṁdita</l>
+				<l>giridharācyuta vēṇunāda vinōda bhavadūra</l>
+				<l>sarasijōdbhava nuta dayāsā</l>
+				<l>gara murāṁtaka dēva varapura</l>
+				<l>darasa cennigarāya pālisu sakalasajjanara</l>
+			</lg>
+			<lg n="3" met="met_value">
+				<l>uragaripukētana vibhīṣaṇa</l>
+				<l>varada hari sadbhaktapōṣaṇa</l>
+				<l>duritakulagirivajra narakāṁtaka mahāmahima</l>
+				<l>paramapuruṣa yaśōdeyātmaja</l>
+				<l>duritaduḥkhavināśa varapura</l>
+				<l>darasa cennigarāya rakṣisu nammananavarata</l>
+			</lg>
+			<lg n="4" met="met_value">
+				<l>karivadana hēraṁba laṁbō</l>
+				<l>dara gaṇādhipa mōdakapriye</l>
+				<l>paraśu pāśāṁkuśakarāṁkitadiṁda raṁjisuva</l>
+				<l>suranarōraganamita gaurī</l>
+				<l>varakumāraka vidyevāridhi</l>
+				<l>varada gaṇapati pālisennaya matige maṁgaḷava</l>
+			</lg>
+			<lg n="5" met="met_value">
+				<l>nāri naḷinadaḷākṣi vara jaṁ</l>
+				<l>bhārinute caturānanapriye</l>
+				<l>bhūriśubhaguṇabharite bhaktāśritajanādhāre</l>
+				<l>nīre nigamavicāre ghanaśṛṁ</l>
+				<l>gāre bhaktarigorava koḍuva u</l>
+				<l>dāre śārade nalidolidu nelasenna jihveyali</l>
+			</lg>
+			<lg n="6" met="met_value">
+				<l>rāyaroḷagaggaḷeyanā kauṁ</l>
+				<l>tēyanige rōmaśamahāmuni</l>
+				<l>rāya vistarisidanu naḷabhūvarana cariteyanu</l>
+				<l>śrīyarasa varapurada cenniga</l>
+				<l>rāyanaṁkitamāgi pēḷuve</l>
+				<l>prīyadiṁdālisuva sujanarigī mahākatheya</l>
+			</lg>
+			<lg n="7" met="met_value">
+				<l>paramapuṇyacaritreyidanā</l>
+				<l>darisi kēḷuva narara janmāṁ</l>
+				<l>tarada ghanaduṣkarma duḥkhavināśavāguvudu</l>
+				<l>kari turaga rathanicaya rājyada</l>
+				<l>siriya saṁpadavāyuvanu mura</l>
+				<l>haranu mannisi koḍuva sujanarigiṣṭa saṁpadava</l>
+			</lg>
+			<lg n="8" met="met_value">
+				<l>janapa kurubhūpālanoḷu jū</l>
+				<l>jinali rājyava sōtu yamanaṁ</l>
+				<l>dananu tannanujātaroḍaneye satyavanu biḍade</l>
+				<l>vanite dhaumyamunīṁdra maṁtrī</l>
+				<l>janasahita naḍetaṁdu kāmyaka</l>
+				<l>vanadoḷage saṁcarisutirdanu tīrthayātreyali</l>
+			</lg>
+			<lg n="9" met="met_value">
+				<l>dharaṇipati ciṁtisuta halubida</l>
+				<l>narana hadanēneṁdu tapadali</l>
+				<l>maredu kaḷedano nammaninibaranenutaliralaṁdu</l>
+				<l>surapa kaḷuhida rōmaśanu muni</l>
+				<l>varanu gaḍaṇadoḷeydi ravibhā</l>
+				<l>surasutējadoḷaṁdu kāmyakavanake naḍetaṁda</l>
+			</lg>
+			<lg n="10" met="met_value">
+				<l>cyavana gautama kapila bhṛgu bhā</l>
+				<l>rgava bharadvājātri kauśika</l>
+				<l>pavanabhakṣaṇa vāmadēva marīci maitrēya</l>
+				<l>śravati kaṇvāṁgirasa śuka gā</l>
+				<l>lava parāśara dālbhya varamuni</l>
+				<l>nivahadoḍaneytaṁdanā rōmaśamahāmuniṣa</l>
+			</lg>
+			<lg n="11" met="met_value">
+				<l>arasananujaru sahita munimu</l>
+				<l>khyaranu kaṁḍidireddu caraṇado</l>
+				<l>ḷeragi bijayaṁgeysi taṁdanu taḷira maṁṭapake</l>
+				<l>varamunīṁdrarigarghyapādyō</l>
+				<l>tkaradoḷupacarisutta darbhā</l>
+				<l>staraṇadali kuḷḷirisidanu bhayabharitabhaktiyali</l>
+			</lg>
+			<lg n="12" met="met_value">
+				<l>nīvaghāḍada dēvaṛṣigaḷu</l>
+				<l>pāvanaru mūlōkakati saṁ</l>
+				<l>bhāvanīyaru satyasaṁdharu nirmalātmakaru</l>
+				<l>āvanarivanu nimma mahimeya</l>
+				<l>bhāvisuvaḍenagaḷave nimma pa</l>
+				<l>dāvalaṁbanasēve dorakitu dhanyarāveṁda</l>
+			</lg>
+			<lg n="13" met="met_value">
+				<l>dharaṇipati sukṣēmavē nija</l>
+				<l>taruṇi ninnanujātatanayaru</l>
+				<l>varasaciva sāmaṁta dhaumyamunīṁdra maṁtrigaḷu</l>
+				<l>pariṇatare pēḷenalu nimmaya</l>
+				<l>parama karuṇāmṛtave nammanu</l>
+				<l>horeyutire sukṣēma bērilleṁdanā nṛpati</l>
+			</lg>
+			<lg n="14" met="met_value">
+				<l>dhāriṇiya nere sōtu anujaru</l>
+				<l>vārijānane sahita baṁdī</l>
+				<l>ghōrakānanadoḷage girigahvarada madhyadali</l>
+				<l>sēri hṛtasukharāgi baḷalida</l>
+				<l>rāru dhareyoḷagennavolu bhava</l>
+				<l>dūra munikulatilaka hēḷeṁdarasa bisusuyda</l>
+			</lg>
+			<lg n="15" met="met_value">
+				<l>ele mahīpati nīninitu u</l>
+				<l>mmaḷisalēkarasugaḷu pūrvada</l>
+				<l>naḷa hariścaṁdrādi rāghavanṛparu haḷuvadali</l>
+				<l>lalaneyara tāvagali kaṣṭava</l>
+				<l>baḷasidaru avaraṁte ninagupa</l>
+				<l>ṭaḷagaḷuṁṭē baride mananōyadiru nīneṁda</l>
+			</lg>
+			<lg n="16" met="met_value">
+				<l>paramaṛṣigaḷa neraviyē sabhe</l>
+				<l>hariya kāruṇyāṁbudhiye siri</l>
+				<l>naravṛkōdara mādritanayaru ninage bāhubala</l>
+				<l>taruṇiyē bhōgaikasaṁpa</l>
+				<l>tturutarada vanarājya ninagiṁ</l>
+				<l>tiralu sariyārarasa ciṁtisalēke nīneṁda</l>
+			</lg>
+			<lg n="17" met="met_value">
+				<l>ādaḍele muninātha naḷanṛpa</l>
+				<l>mēdiniyanuḷidavaniyali ta</l>
+				<l>ḷōdariyaneṁtagalidanu tānāra deseyiṁda</l>
+				<l>sādhisidanavaniyanu dhareyeṁ</l>
+				<l>tādudā naḷanṛpage nīvida</l>
+				<l>nādarisi pēḷenalu nagutiṁteṁdanā munipa</l>
+			</lg>
+			<lg n="18" met="met_value">
+				<l>bhūtaḷēṁdraroḷadhikabala vi</l>
+				<l>khyātanaha naḷacakravartiyu</l>
+				<l>bhūtaḷava pālisidanātana vimalacariteyanu</l>
+				<l>sūtamuni hēḷidanu mauni</l>
+				<l>vrātadaliyāgastyamuni saṁ</l>
+				<l>prītiyiṁdaruhidanu raghunaṁdananoḷī katheya</l>
+			</lg>
+			<lg n="19" met="met_value">
+				<l>vasudhepati kēḷī caritreya</l>
+				<l>niṣadhavaṁteṁbā mahāpura</l>
+				<l>vesedudagaṇita gōpurada prākāraśikharadali</l>
+				<l>misuni ratnaprabhegaḷali raṁ</l>
+				<l>jisuva dēvālayagaḷirdudu</l>
+				<l>vasudhegaccariyenisitā puravarasa kēḷeṁda</l>
+			</lg>
+			<lg n="20" met="met_value">
+				<l>murimurida kottaḷada sālina</l>
+				<l>paruṭhavada hulimukhada bāgila</l>
+				<l>mirupa maṇivajrada kavāṭada gaṁdhavaṭṭigeya</l>
+				<l>urutarada vēdikeya hēmada</l>
+				<l>mereva sōpānagaḷa neleyu</l>
+				<l>pparigegaḷa mēleseva kalaśada kāṁti raṁjisitu</l>
+			</lg>
+			<lg n="21" met="met_value">
+				<l>mugila tuḍukuva tenegaḷāḷvē</l>
+				<l>rigaḷu pātāḷagaḷa khātaga</l>
+				<l>ḷagaḷu baḷasida kōṭe suttāvarisidunnatada</l>
+				<l>gaganavīdiya tārakeyavol</l>
+				<l>sogasutōruva kannaḍiya sā</l>
+				<l>lugaḷa ratnaprabhegaḷali raṁjisidudā nagara</l>
+			</lg>
+			<lg n="22" met="met_value">
+				<l>raviśaśiya vīdigaḷa hēmada</l>
+				<l>vividha maṇibhittigaḷa kāṁtiyu</l>
+				<l>divavanaṇedudu ratnanicayada bhadrabhavanikeya</l>
+				<l>yuvatiyara saṁgīta vīṇā</l>
+				<l>ravada rahiyali manake savidō</l>
+				<l>ruva mahāracaneyali meredudu niṣadhavaranagara</l>
+			</lg>
+			<lg n="23" met="met_value">
+				<l>vasudheyamararu kṣatriyaru raṁ</l>
+				<l>jisuva vaiśya caturtharunnata</l>
+				<l>kuśalavidyādhikaru kavigaḷu mallagāyakaru</l>
+				<l>asamarathikaru samaradali sā</l>
+				<l>hasaru kari ratha turaga pāydaḷa</l>
+				<l>vesedudagaṇita cāturaṁgadi niṣadhavaranagara</l>
+			</lg>
+			<lg n="24" met="met_value">
+				<l>sāla bilva kapittha jaṁbu ta</l>
+				<l>māla dāḍima vakuḷa vaṭa hiṁ</l>
+				<l>tāla kramuka kadaṁba kuravaka kadaḷi kharjūra</l>
+				<l>tāla caṁdana panasa varata</l>
+				<l>kkōla kētaki kuṭaja saraḷada</l>
+				<l>sālatarugaḷa nicayadiṁdudyāna raṁjisitu</l>
+			</lg>
+			<lg n="25" met="met_value">
+				<l>bhūramaṇa kēḷā purādhipa</l>
+				<l>vīrasēnanṛpāla ripusaṁ</l>
+				<l>hāranātana tanaya naḷanṛpaneṁbudabhidhāna</l>
+				<l>bhūrivikrama paramadharmavi</l>
+				<l>cāra śaśikulamauḷi ghanagaṁ</l>
+				<l>bhīra pālisutirda saptadvīpadavanipara</l>
+			</lg>
+			<lg n="26" met="met_value">
+				<l>śaradhi mēru digaṁtadavanī</l>
+				<l>śvararu kappava teruvaragaṇita</l>
+				<l>dhuravijaya dōrbalaru maṇimayamakuṭavardhanaru</l>
+				<l>caraṇakānatarāgi naḷabhū</l>
+				<l>varana bhajisutalirdaramarē</l>
+				<l>śvarana sabheyaṁdadali meredudu nṛpatiyāsthāna</l>
+			</lg>
+			<lg n="27" met="met_value">
+				<l>bhūmipati kēḷittaluttara</l>
+				<l>bhūmiyali pajjaḷisutiha su</l>
+				<l>trāmapuradaṁtesedudalli vidarbhanagaravadu</l>
+				<l>rāmaṇīyakaracaneyali nava</l>
+				<l>hēmakhacita suratna saudha</l>
+				<l>stōmagaḷa sālinali raṁjisutirdudā nagara</l>
+			</lg>
+			<lg n="28" met="met_value">
+				<l>alligadhipati bhīmanṛpa guṇa</l>
+				<l>dalli nayadali vīryavitaraṇa</l>
+				<l>dalli cāturyadali saubhāgyadali dhairyadali</l>
+				<l>ballidanu tānāgi nijasuta</l>
+				<l>rillaveṁdummaḷisutire mana</l>
+				<l>dalligākṣaṇa baṁdanā damanākyamunivaranu</l>
+			</lg>
+			<lg n="29" met="met_value">
+				<l>baṁda munigavanipati vaṁdisi</l>
+				<l>niṁdu karagaḷa mugidu vinayado</l>
+				<l>ḷeṁda sutasaṁtānavillada siriyadēkeṁdu</l>
+				<l>noṁdu nuḍiyalu sutara paḍeyada</l>
+				<l>taṁdegidu saṁtāpavallave</l>
+				<l>eṁdu muni karuṇadali saṁtaisidanu janapatiya</l>
+			</lg>
+			<lg n="30" met="met_value">
+				<l>yōgadṛṣṭiyoḷaridu munivara</l>
+				<l>nāga nṛpanoḍaneṁda putrana</l>
+				<l>yāgavanu māḍarasa tappadu putralābhavene</l>
+				<l>ā garuva munimaṁtradiṁda sa</l>
+				<l>rāgadali śubhadina sulagnadi</l>
+				<l>yāgavanu pūraisidanu suranararu taṇivaṁte</l>
+			</lg>
+			<lg n="31" met="met_value">
+				<l>arasa kēḷā yāgasamanaṁ</l>
+				<l>taradoḷā munimukhyaranu sa</l>
+				<l>tkarisi kaḷuhidanavaravaranucitōpacāradali</l>
+				<l>taruṇigādudu garbha maṁgaḷa</l>
+				<l>kara sulagna sutāreyali nṛpa</l>
+				<l>narasi paḍedaḷu tanujeyanu lōkaikasuṁdariya</l>
+			</lg>
+			<lg n="32" met="met_value">
+				<l>amaraduṁdubhi moḷagaliḷe saṁ</l>
+				<l>bhramise purajana naliye nṛpanā</l>
+				<l>samayadali damanākhyamunigabhinamisi nijasutege</l>
+				<l>vimalanāmava pālisenalā</l>
+				<l>kamalamukhi damayaṁtiyeṁdu</l>
+				<l>ttamada pesareṁdaruhi muni horavaṁṭanāśramake</l>
+			</lg>
+			<lg n="33" met="met_value">
+				<l>niriguruḷa pavaḷādharada uru</l>
+				<l>tarada tōḷgaḷa kaṁbukaṁṭhada</l>
+				<l>taraḷanayanada saṁpageya nāsikada perenosala</l>
+				<l>hariya madhyada haṁsagamanada</l>
+				<l>gurukucada karapallavada sara</l>
+				<l>siruhamukhi nalidāḍutiddaḷu rājabhavanadali</l>
+			</lg>
+			<lg n="34" met="met_value">
+				<l>guṇadoḷage śīladali mātina</l>
+				<l>bhaṇitiyali gāṁbhīryadali vita</l>
+				<l>raṇadalanupamavidyeyali guru daivabhaktiyali</l>
+				<l>praṇitisalu śarvāṇi ratiyari</l>
+				<l>geṇeyenipa suṁdarige mikkina</l>
+				<l>baṇagu satiyaru sariye lōkadoḷeṁdanā munipa</l>
+			</lg>
+			<lg n="35" met="met_value">
+				<l>kēḷu pāṁḍavatanaya bhīmanṛ</l>
+				<l>pālanōlagadalli dharaṇī</l>
+				<l>pālakara caritaprasaṁgadoḷiralu naḷanṛpana</l>
+				<l>śīlavanu sauṁdaryavibhava vi</l>
+				<l>śālamati lāvaṇyarūpu gu</l>
+				<l>ṇāḷigaḷa vistarisi koṁḍāḍidaru kavijanaru</l>
+			</lg>
+			<lg n="36" met="met_value">
+				<l>vanajamukhiyā vārteyellava</l>
+				<l>manavolidu kēḷidaḷu higguta</l>
+				<l>nenedudaṁtaḥkaraṇa heccida cittavṛttiyali</l>
+				<l>nenedu baredaḷu naḷana rūpava</l>
+				<l>nanunayadi citradali mige saṁ</l>
+				<l>janisitavanali mōhavele dharaṇīśa kēḷeṁda</l>
+			</lg>
+			<lg n="37" met="met_value">
+				<l>āga madananu tanna balavanu</l>
+				<l>bēgadali jōḍisalu khōyeṁ</l>
+				<l>dāgalarasaṁcegaḷu aḷiviṁḍugaḷu nalidāḍe</l>
+				<l>kōgilegaḷārbhaṭise giḷigaḷu</l>
+				<l>kūge navilugaḷāḍe manmatha</l>
+				<l>nāga pūgaṇegaḷanu saṁdhisiyeccanaṁganeya</l>
+			</lg>
+			<lg n="38" met="met_value">
+				<l>uṇṇaḷannava kāmagattale</l>
+				<l>kaṇṇinali percidudu satiyara</l>
+				<l>mannaṇege maigoḍaḷu balubēsaradi baḷaluvaḷu</l>
+				<l>baṇṇisiye mātāḍalollaḷu</l>
+				<l>baṇṇaguṁdida dēhadoḷageḷa</l>
+				<l>veṇṇugaḷa saukhyavanu toredaḷu madananesugeyali</l>
+			</lg>
+			<lg n="39" met="met_value">
+				<l>keḷediyaru kaṁḍaṁtaraṁgadi</l>
+				<l>balida virahada rājavadaneya</l>
+				<l>hoḷaloḷudyānavana surucira puṣpatarugaḷali</l>
+				<l>eḷadaḷira neḷalinali parimaḷa</l>
+				<l>dalara pannīrinali taḷuvade</l>
+				<l>nalavu hiṁgida satiyanupacarisidaru banadoḷage</l>
+			</lg>
+			<lg n="40" met="met_value">
+				<l>kelaru hadanēneṁdu bagedaru</l>
+				<l>kelaru pannīrugaḷa taḷidaru</l>
+				<l>kelaru kappuragaṁdhavanu lēpisidaraṁgadali</l>
+				<l>kelaru bīsidarālavaṭṭadi</l>
+				<l>kelaru hūvanu hāsidaru kō</l>
+				<l>malege nānāvidhada upacāraṁgaḷanu racisi</l>
+			</lg>
+			<lg n="41" met="met_value">
+				<l>ī pariyoḷā kāminige śai</l>
+				<l>tyōpacārava māḍidaru pari</l>
+				<l>tāpa veggaḷisidudu idakinnēnu hadanenuta</l>
+				<l>cāpaḷeyarālōcisuta kaḍu</l>
+				<l>pāpiyaṁgajaneṁdu bayyuta</l>
+				<l>tōpineḍegiradaidi taṁdaru satiya saṁtaisi</l>
+			</lg>
+			<lg n="42" met="met_value">
+				<l>bakuḷa pādari niṁba vaṭa kē</l>
+				<l>taki saraḷa pāṭaḷi kuṭaja caṁ</l>
+				<l>paka rasāla kapittha dāḍima kramukatarugaḷali</l>
+				<l>śuka navilu jilibiliga gījuga</l>
+				<l>baka hasuba goravaṁka ṭiṭṭibha</l>
+				<l>pika cakōraka mīṁbuliga hakkigaḷu raṁjisitu</l>
+			</lg>
+			<lg n="43" met="met_value">
+				<l>bigida ratnada sāla sōpā</l>
+				<l>nagala keṁdāvareya moggeya</l>
+				<l>muguḷa tuṁbiya haṁsagaḷa bakacakravākagaḷa</l>
+				<l>sogasudōruva sarasiyali vara</l>
+				<l>suguṇiyaru damayaṁtiyoḷu mana</l>
+				<l>sogasiniṁdāḍidaru jalakēḷiya vidagdheyaru</l>
+			</lg>
+			<lg n="44" met="met_value">
+				<l>baṁdu satiyaru koḷana tīradi</l>
+				<l>niṁdu vastrābharaṇabhūṣaṇa</l>
+				<l>diṁda śaśikāṁtōpaladi kuḷḷirisi śaśimukhiya</l>
+				<l>aṁdu virahavyatheya nānā</l>
+				<l>caṁdadali śaityōpacāraga</l>
+				<l>ḷiṁda saṁtaisidaru varapuradarasanājñeyali</l>
+			</lg>
+		</div>
+    </body>
+  </text>
+</TEI>

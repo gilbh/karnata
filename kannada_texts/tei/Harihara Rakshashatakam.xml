@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" n="ViVi">
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:lang="kan-Latn">/harihara-rakshashatakam</title>
+        <author xml:lang="kan-Latn">Pampa</author>
+        <principal>
+          <persName xml:id="AO" ref="http://viaf.org/viaf/372149294434280521495">
+            <forename>Andrew</forename>
+            <surname>Ollett</surname>
+          </persName>
+        </principal>
+        <respStmt>
+          <resp>Typing and proofreading</resp>
+          <orgName>Adishila Publications</orgName>
+          <persName>Krishnaprasada G.</persName>
+        </respStmt>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <lg n="1" met="met_value">
+          <l>śrīmadgaṁgātaraṁgāvṛtavimalajaṭājūṭa sarvēśa gaurī</l>
+          <l>vāmāṁgāliṁganāliṁgita ghanamahimōdāracāritra caṁcat</l>
+          <l>sōmārdhōttaṁsa saṁsārajaladhivaḍabākārasākāra bhakti</l>
+          <l>prēmāṁbhōrāśi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="2" met="met_value">
+          <l>tirugutteṁbattu nālkuṁ daśaśataśatajanmaṁgaḷoḷ puṭṭi nimmoṁ</l> 
+          <l>diravaṁtiṁteṁtuṭeṁdēnumanaṟiyade maṇṇāgi kallāgutuṁ du</l>
+          <l>rdharagulmaṁ bhūribhūjaṁ puḷu khaga-mṛgavāguttumeṁtakke baṁdeṁ</l>
+          <l>narajanmakkayya paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>       
+        </lg>
+        <lg n="3" met="met_value">
+          <l>basiṟoḷ māsotti nettar pasarisi karuḷiṁ sutti mūtraṁ purīṣaṁ</l> 
+          <l>musukiṭṭellaṁgadoḷ kettiraludaraśikhijvāleyiṁdatta mittaṁ</l>     
+          <l>kusiyuttuṁ puṭṭuvoṁdujjugadoḷe maraṇāvastheyaṁ tāḷdibaṁdā</l>    
+          <l>yasamaṁ cittaysi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ </l>     
+        </lg>
+        <lg n="4" met="met_value">
+          <l>ēneṁbeṁ bālyadoḷ mēlaṟiyade maladiṁ mūtradiṁ ślēṣmadiṁtō</l>      
+          <l>ydānāreṁdēnumaṁ bhāvisade badhiranaṁtaṁdhanaṁtirdu mattaṁ</l>      
+          <l>nānābhōjyakke pakkāgute carisideninnāṟeninnāṟenayyō</l>
+          <l>ānaṁdāṁbhōdhi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="5" met="met_value">
+          <l>piridoṁdajñānadiṁ yauvanavikaḷate maidōṟe kāṁtānivāsāṁ</l>        
+          <l>taradoḷ śvānaṁge hīhaṁdige kapigeṇeyāgirdu bēḷāgutuṁ tat</l>     
+          <l>karaṇakkāḷāgi hāḷāgute baṟudoṟevōdeṁ baḷaldeṁ bigurteṁ</l>      
+          <l>maruḷādeṁ dēva paṁpāpuradarasa virūpākṣa rakṣippudennaṁ </l>      
+        </lg>
+        <lg n="6" met="met_value">
+          <l>strīmātraṁ nētradattal suḷidoḍe manavirbhāgamāgutte tāpa</l>      
+          <l>stōmaṁ kaimīṟi lajjārasamuḍugi vivēkaṁ kaḷaldōḍi rāgaṁ</l>        
+          <l>kaimikkānāvanēneṁdaṟiyada teṟanaṁ māḍutirdappudiṁtī</l>
+          <l>kāmaṁ kāmāri paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="7" met="met_value">
+          <l>ēpoḷtuṁ gātramaṁ śōṣisute karaṇamaṁ kaṁdisuttuṁ nirarthaṁ</l>     
+          <l>tāpavrātakke pakkāgisutamaḷaguṇastōmamaṁ khaṁḍisuttuṁ</l>
+          <l>pāpaprāraṁbhakartṛtvamanenagenisaṁ māḍutirdappudiṁtī</l>
+          <l>kōpaṁ śāṁtātma paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>        
+        </lg>
+        <lg n="8" met="met_value">
+          <l>dhanamaṁ strīputraraṁ kemmane kiḍuva gṛhakṣētramaṁ mitraraṁ va</l>
+          <l>stranikāyākalpamaṁ muṁtenagenute karaṁ kāṁkṣeyiṁ kūrmeyiṁde</l>
+          <l>ḷḷanituṁ puṇyakke māḍal kuḍade kiḍisuvī lōbhamaṁ dāni nīṁ chē</l>
+          <l>daneyaṁ māḍutte paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="9" met="met_value">
+          <l>dēhōhaṁ eṁdu makkaḷ manedhanavaḷiyal kaṁdisutturbuvāśā</l>
+          <l>vyūhakkiṁbāgisuttuṁ nenedu maṟugisuttuṁ musuṁkirda mithyā</l>
+          <l>snēhāraṁbhānukūlaṁ nuḍigeḍeguḍadirdappudottaṁbadiṁdī</l>
+          <l>mōhaṁ mōhāri paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="10" met="met_value">
+          <l>ādanēneṁbeṁ guṇavrātamane paṟiyutuṁ vidyeyaṁ khaṁḍisuttuṁ</l>
+          <l>kadaḍuttuṁ cittamaṁ buddhiyanuṟadaṟeyaṭṭutte kāydappudennī</l>
+          <l>madamātaṁgaṁ mahārōhaka nijacaraṇastaṁbhadoḷ kaṭṭi saiti</l>
+          <l>ṭṭu dayāṁbhōrāśi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="11" met="met_value">
+          <l>pararaiśvaryakkasūyaṁgoḷute parara balpiṁge saṁtāpisuttuṁ</l>
+          <l>parariṁdaṁ mikku bāḷal bayasi kudidu bēḷāgi beṁbīḷutirduṁ</l>
+          <l>paraciṁtākṣōbheyiṁ matsaradoḍane karaṁ gāsiyādappenī ma</l>
+          <l>tsaramaṁ targotti paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="12" met="met_value">
+          <l>manavennaṁ durvikārakkeḷedapudu manaṁ mānamaṁ nurgidattī</l>
+          <l>manavāśāvahniyoḷ nūṁkidapudu manavī māyeyaṁ biṭṭu nimmaṁ</l>
+          <l>neneyal tānīyadayyō śivane bhavane kāruṇyavārāśiyennī</l>
+          <l>manamaṁ saytiṭṭu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="13" met="met_value">
+          <l>pratyakṣaṁ sattu hōguttide naranikaraṁ tānidaṁ kaṁḍu kaṁḍuṁ</l>
+          <l>nityatvaṁbetta pāṁgiṁ paḷiva muḷiva kāmippa kōpippa lōbhi</l>
+          <l>ppatyaṁtaṁ garvipennī manake paramavairāgyamaṁ koṭṭu satyaṁ</l>
+          <l>satyaṁ satyātma paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="14" met="met_value">
+          <l>inituṁ vairāgyadattal neneyade madadattal mahāmōhadattal</l>
+          <l>dhanadattal dhānyadattal satisutapitarattal sadā lōbhadattal</l>
+          <l>neneyuttirdappudennī manavidaneḍegoṁḍaḷkaṟiṁ dēva nīviṁ</l>
+          <l>tenituṁ tīvirdu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="15" met="met_value">
+          <l>suvicārakkormeyuṁ sēradu naḍeyipudatyāgrahavyāptiyiṁ tā</l>
+          <l>navicārakkeṁdoḍeṁṭaṁ nimirvudu bayalaṁ bhāvisuttirpudātmō</l>
+          <l>dbhavamūlacchēdanōpāyavaneṇisadu madbuddhiyī buddhiyaṁśaṁ</l>
+          <l>bhuve saṁtaṁ māḍi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="16" met="met_value">
+          <l>inituṁ tānalladāraṁ bageyadu madamaṁ garvamaṁ kūḍikoṁḍi</l>
+          <l>rdenituṁ muṁgāṇadatyuddhatataramukhamāgirpudōraṁte vidva</l>
+          <l>jjanamaṁ kaikoḷḷadennī manadoḍataṇahaṁkāraviṁtiṁtidaṁ dē</l>
+          <l>vane nīṁ targotti paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="17" met="met_value">
+          <l>dhanadoḷ dhānyaṁgaḷoḷ bhūṣaṇavitatigaḷoḷ putrasaṁtānadoḷ bhō</l>
+          <l>ganikāyabhrāṁtiyoḷ kāṁteyara tanusukhacchāyeyoḷ māyeyoḷ niṁ</l>
+          <l>denasuṁ naṭṭirda maccittamanabhava nijāṁghridvayadhyānasānaṁ</l>
+          <l>danivāsaṁ māḍi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="18" met="met_value">
+          <l>ōraṁtī dēhamaṁ rakṣisuvatibharadiṁduḷtu tettuṁ satēja</l>
+          <l>kkārēnaṁ pēḷdoḍaṁ kaimugidu sugidu perbiṭṭiyaṁ pottu saṁsā</l>
+          <l>rāraṁbhaṁgeydu duḥkhakkalasi maṟugi nimmaṁghriyaṁ pordideṁ sa</l>
+          <l>tyāraṁbhaprēmi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="19" met="met_value">
+          <l>avicāraṁ mikku lābhaṁbaḍevatibharadiṁ sutti dēśaṁgaḷoḷ viṁ</l>
+          <l>dhyavitānaprāṁtadoḷ tiṟaṟane tirugi modalgeṭṭu beṁbiḷdu duḥkha</l>
+          <l>vyavahārakkaḷki nimmī caraṇayugaḷamaṁ pordideṁ bhaktavṛṁdō</l>
+          <l>tsavakalpōrvīja paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="20" met="met_value">
+          <l>avaniṁtārādoḍaṁ palgiridu piridu bāyiṁde dainyākṣaraṁ saṁ</l>
+          <l>bhavisuttennāḷda saṁdēśamane karuṇiseṁdalli martyaṁge sāvu</l>
+          <l>ttave puṭṭuttirpa sēvānarakanadiyanīsāḍi madbhāgyadiṁ ni</l>
+          <l>nnavanādeṁ dēva paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="21" met="met_value">
+          <l>tanuvaṁ strīputraraṁ rakṣipa vipuḷatekaikoṁḍu kārpaṇyavaktraṁ</l>
+          <l>tanugātraṁ dīnanētraṁ tuṣalaghutaramātraṁ karaṁpordi tōrpiṁ</l>
+          <l>janamaṁ bēḷpāseyiṁ sāvina pariyenipī dainyamaṁ biṭṭu nimmaṁ</l>
+          <l>neneyuttirpaṁte paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="22" met="met_value">
+          <l>maneyeṁduṁ makkaḷeṁduṁ jananijanakareṁduṁ vṛthā patniyeṁduṁ</l>
+          <l>dhanameṁduṁ dhānyameṁduṁ sakalaviṣayaviṁtennadeṁduṁ nirarthā</l>
+          <l>rthanimittaṁ beṁdu tāpatrayadoḷe kudideṁ battideṁ bāḍideṁ yā</l>
+          <l>tanegoṁḍeṁ dēva paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="23" met="met_value">
+          <l>vipuḷānaṁgāgniyiṁ baṁdeḷeduravaṇipāśāgniyiṁdaṁ nirarthaṁ</l>
+          <l>kupitōdbhūtāgniyiṁdaṁ harahara mige bēvuttu mirdappenānaṁ</l>
+          <l>dapayōvārāśi nimmī vimaḷakarataḷābjaṁgaḷiṁdettutayyō</l>
+          <l>kṛpeyiṁdaṁ nōḍi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="24" met="met_value">
+          <l>navedeṁ rōgaṁgaḷiṁdaṁ seḍedenanudinaṁ sēveyiṁdaṁ nirarthaṁ</l>
+          <l>savedeṁ kāmaṁgaḷiṁdaṁ mige paribhavadoḷ baṁde nānāseyiṁdaṁ</l>
+          <l>tavilādeṁ kōpadiṁdaḷkidenatimadadiṁ muṁdugeṭṭirdapeṁ śaṁ</l>
+          <l>bhuve nīlagrīva paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="25" met="met_value">
+          <l>ayyō saṁsārasaṁgakkaṟiyadeṟagideṁ maḷgideṁ māṟuvōdeṁ</l>
+          <l>muyyāṁteṁ muṁdugeṭṭeṁ seḍedenuḍugideṁ māsideṁ sūsideṁ ki</l>
+          <l>rgayyādeṁ kaṁdideṁ kuṁdidenalasidenāsattenallāḍideṁ nī</l>
+          <l>nayyā kaikoṁḍu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="26" met="met_value">
+          <l>uragāsyālagna bhagnapracalitaharivol vyāghravaktraprayukta</l>
+          <l>sphuritātaṁkāṁtaraṁgasthitamṛgaśiśuvol siṁhahastāvalaṁba</l>
+          <l>dviradaṁbōlirdenī māyeya mukhadeḍeyoḷ bēgadiṁ piṁgisāmad</l>
+          <l>guruvē matsvāmi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="27" met="met_value">
+          <l>lalanāsaṁbhōgarōgaṁ pasivanuḍugisuttārtiyaṁ poṁgisuttuṁ</l>
+          <l>balamaṁ kaiguṁdisuttuṁ sujanavacanapathyakke tāṁ vakrisuttuṁ</l>
+          <l>sale lajjābhāvamaṁ mīṟisutumideyidakkauṣadhaṁgoṭṭu taṁdē</l>
+          <l>taleyoḷ kaiyiṭṭu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="28" met="met_value">
+          <l>dviradaṁ matsyaṁ pataṁgaṁ bhramaranahiyenippiṁtivēkiṁdriyārthaṁ</l>
+          <l>tiruguttirdappuviṁtī jananada baḷiyoḷ dēva paṁcēṁdriyārthaṁ</l>
+          <l>virasaṁ vidrūpi mūrkhaṁ viṣayavikaḷanēnappeneṁtirpenayyō</l>
+          <l>karuṇī kaikoṁḍu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="29" met="met_value">
+          <l>taradiṁ rōgaṁ viṣaṁ vṛścikavanalanahivyāghramugrāyudhaṁgaḷ</l>
+          <l>duritaṁ matta dvipaṁ mūrkhatepoḍeva siḍil durjanaṁ durmadaṁ ta</l>
+          <l>skarareṁbī kaṁṭakastōmada naḍuvoḍalirpaṁdamēṁ sōjigaṁ śaṁ</l>
+          <l>kara nīṁ kaikoṁḍu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="30" met="met_value">
+          <l>dhanamaṁ saitārjipeṁ baitiḍuvenadaṟoḷaṁ puṇyavaivāhamaṁ mā</l>
+          <l>ḷpenadaṁ putrargalaṁkāramanodavisuveṁ kūḍi bhōgippeneṁdāṁ</l>
+          <l>neneyuttirpannegaṁ toṭṭane maraṇamadāgalke bēḷappa duściṁ</l>
+          <l>taneyaṁ targotti paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="31" met="met_value">
+          <l>kanakaṁ nīrakkaraṁ peṁḍiti kanasu sutar maṁju tāytaṁde vāyaṁ</l>
+          <l>tanuvabhracchāye mitrar gaganakusumamiṣṭar marīcījalaṁ yau</l>
+          <l>vanadharmaṁ mēghacāpaṁ gṛhavaciravenippiṁtivaṁ biṭṭu nimmaṁ</l>
+          <l>neneyuttirpaṁte paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="32" met="met_value">
+          <l>eravī dēhaṁ hiraṇyaṁ pudu sati pageyātmēṣṭaraupādhikar sō</l>
+          <l>dararellaṁ vairigaḷ tāvenisidanaṟiduṁ matta māvarthadiṁdaṁ</l>
+          <l>poreveṁ rakṣippenolveṁ biḍade naḍeyipeṁ naṁbi naccirpenenniṁ</l>
+          <l>maruḷārārāne paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="33" met="met_value">
+          <l>jalamaṁ pordirpa śaivālada teṟade karaṁ dīpikācchāyeyeṁtu</l>
+          <l>jjvalavāṁtā caṁdralakṣaṁ mukuradoḷage tōrpā praticchāyeyeṁtaṁ</l>
+          <l>taleyuttuṁ patti bennaṁ biḍadide ghanasaṁsāravī māyeyaṁ ni</l>
+          <l>rmala nīnē tīrci paṁpāpuradarasa virūpākṣa rakṣippudenna0</l>
+        </lg>
+        <lg n="34" met="met_value">
+          <l>neḷaloḷ pōrvaṁtirākāśamanavayavadiṁdīsuvaṁturviyaṁ tāṁ</l>
+          <l>toḷevaṁtabhrāḷiyaṁ kaṁḍarisuva teṟadiṁ dhūmamaṁ sīḷva pāṁgiṁ</l>
+          <l>baḷaluttirdappenī māyeya maneya duvāḷiṁde nirmāya nityō</l>
+          <l>jjvaḷa nistraiguṇya paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="35" met="met_value">
+          <l>madadiṁdaṁ poḷtu pōguttide śivaśiva mātsaryadiṁ poḷtu pōgu</l>
+          <l>ttide āhā poḷtu pōguttide musukidatatkāmadiṁ poḷtu pōgu</l>
+          <l>ttide lōbhavyāptiyiṁ kōpadinaṟiyade durmōhadiṁ poḷtupōgu</l>
+          <l>ttide taṁdē taṁde paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="36" met="met_value">
+          <l>eredēveṁ pordiyēveṁ nirutade nenedēveṁ manaṁ muṭṭiyēveṁ</l>
+          <l>karedēveṁ kūrtumēveṁ biḍadatibharadiṁ naṁbiyēveṁ śivā mad</l>
+          <l>guruvē innēvanēveṁ nijakaruṇavaṇaṁ pordadaspṛśyanaṁ śaṁ</l>
+          <l>kara nīṁ kaikoṁḍu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="37" met="met_value">
+          <l>tave rōgaṁ patti gātraṁ dharaṇige keḍedirpalliyugradvipaṁ baṁ</l>
+          <l>davicāraṁ kāydu balpiṁdodeye muduḍi bīḷvalli kāḷkiccu suttaṁ</l>
+          <l>kavitaṁdā poḷtu nālkuṁ desege paridu bēvalli nīvalladār kā</l>
+          <l>vavariṁ kāmāri paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="38" met="met_value">
+          <l>eḍegoṁḍī muppudōṟal nere negedu siraṁdūgi ben bāgiyeṁta</l>
+          <l>kkaḍiyettalkāṟadettaṁ daḍadaḍisi karaṁ jōldu kōlūṟi niṁduṁ</l>
+          <l>naḍuguttuṁ kemmi kommuttoḍalanoleyutuṁ muggi baḷduṁ nitāṁtaṁ</l>
+          <l>keḍevalliṁ munna paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="39" met="met_value">
+          <l>teṟapillaṁ sāvu bhōṁkeṁdaḍasida padadoḷ bhaktisaṁdhānavelli</l>
+          <l>ttaṟivellittarthavellittamaḷaguṇavadellittō saddharmavelli</l>
+          <l>ttoṟapellittōjeyellitta tuḷabalamadellitta dakkaṁji nimmaṁ</l>
+          <l>maṟevokkeṁ dēva paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="40" met="met_value">
+          <l>kivikaṇgaḷ kettu bāyorguḍisi kareye pergūriḍutteyde baṁdi</l>
+          <l>rdavaraṁjal śvāsamēṟuttiḷiyutumireyaṁtalli kai kālgaḷoḷ jī</l>
+          <l>vavanaṁṭaṁṭilliyuṁ kāṇadeyakaṭakaṭayyō gaḍā sattaneṁbī</l>
+          <l>pavaṇiṁdaṁ munna paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="41" met="met_value">
+          <l>dēvā nānēveneṁdeṁdabaleyaḷute tāṁ pōge piṁdaṁ janaṁgaḷ</l>
+          <l>sāvītaṁgāytenuttuṁ maṟugi bare tanūjāḷiyuṁ baṁdhuvargaṁ</l>
+          <l>tāvettaṁ matte śōkaṁ musuki naḍeye tatkaṣṭadoḷ kāṣṭharūpiṁ</l>
+          <l>bēvalliṁ munna paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="42" met="met_value">
+          <l>jananī garbhāṁḍadiṁ barpativiṣamataraklēśamaṁ bālyadoḷ mā</l>
+          <l>ḷpa niṣēdhavrātamaṁ yauvanavikaḷateyaṁ muppinā hēyamaṁ sā</l>
+          <l>va nirōdhastōmamaṁ kaṁḍalasidenadirdeṁ pēsideṁ noṁdenōraṁ</l>
+          <l>tanugeṭṭeṁ dēva paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="43" met="met_value">
+          <l>āneṁteṁtakke baṁdeṁ manujabhavadoḷeṁtakkanūnāṁgasaṁgaṁ</l>
+          <l>tānāyteṁtakke kūḍittaghaṭitaghaṭitaṁ satkulaṁ matta meṁta</l>
+          <l>kkā nimmaṁghridvayakkāneṟagideninitāyāsadiṁ baṁdenay sa </l>
+          <l>tyānaṁdajyōti paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="44" met="met_value">
+          <l>śaraṇār nīṁ kāvarār nīṁ gati-mati-patiyār nīṁ kṛpāṁbhō dhiyār nīṁ</l>
+          <l>guruvār nīṁ gōtravār nīṁ jananijanakarār nīṁ mahā baṁdhuvār nīṁ</l>
+          <l>vararār nīṁ vaṁdyarār nīnenagatihitarār nīṁ mahādēva ninniṁ</l>
+          <l>pararārār nīne paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="45" met="met_value">
+          <l>maruḷārāṁ mattanārāṁ mativirahitanārāṁ budhadvēṣiyārāṁ</l>
+          <l>paranārāṁ karmiyārāṁ khalajanasakhanārāṁ sadākrūravākpā</l>
+          <l>maranārāṁ nīcanārāṁ viṣayavikaḷanārāṁ mahākṣudrarenniṁ</l>
+          <l>pararārārāne paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="46" met="met_value">
+          <l>guru nīṁ tvacchiṣyanāṁ nirmaḷaghananidhi nīṁ kṣudranāṁ dāni nīnā</l>
+          <l>turanāṁ niṣkāmi nīṁ kāmada nelevaneyāṁ taṁde nīṁ putranāṁ śāṁ</l>
+          <l>tarasaṁ nīṁ krōdhiyāṁ puṇyada phalatati nīṁ pāpiyāṁ svāmi nīṁ kiṁ</l>
+          <l>karanāṁ kaikoṁḍu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="47" met="met_value">
+          <l>khaḷanaṁ durbōdhanaṁ durviṣayaniratanaṁ duṣṭanaṁ dhūrtanaṁ du</l>
+          <l>rbaḷanaṁ durmōhiyaṁ durjanajanahitanaṁ sajjanadvēṣiyaṁ saṁ</l>
+          <l>caḷanaṁ dōṣārtiyaṁ durdharataravirasakrīḍanaṁ kōpiyaṁ vyā</l>
+          <l>kuḷanaṁ kaikoṁḍu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="48" met="met_value">
+          <l>aḷipaṁ sanmānahīnaṁ sujanajanavidūraṁ vṛthōtsāhi mūrkhaṁ</l>
+          <l>khaḷanatyāsvādi vidyāvinayanayavihīnaṁ kujātiprasaṁgaṁ</l>
+          <l>gaḷapaṁ cārvākanajñaṁ guṇarahitanenippennanoldīśa nīṁ vyā</l>
+          <l>kuḷanaṁ kaikoṁḍu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="49" met="met_value">
+          <l>satataṁ niṁdākaraṁ niṣṭhuranatikṛpaṇaṁ sajjanadvēṣi duściṁ-</l>
+          <l>titacittaṁ jñānadūraṁ parahitarahitaṁ bhakti viśvāsahīnaṁ</l>
+          <l>stutilōlaṁ rāgaśīlaṁ sukṛtavimukhanānaṁdahīnaṁ vimānaṁ</l>
+          <l>natakalpōrvīja paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="50" met="met_value">
+          <l>atidīnaṁ dhūrtamānaṁ paradhanavanitādhīnanānaṁdahīnaṁ</l>
+          <l>matiśūnyaṁ ḍaṁbhamānyaṁ viṣayavisaradanyaṁ vimūḍhargananyaṁ</l>
+          <l>nutadūraṁ duḥkhasāraṁ sujanajanaghanakrūranī bhūmibhāraṁ</l>
+          <l>satataṁ kaikoṁḍu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="51" met="met_value">
+          <l>khararūpaṁ pāpadīpaṁ kujanajanakalāpaṁ sadārabdhakōpaṁ</l>
+          <l>sthirabhaṁgaṁ duṣprasaṁgaṁ viṣayakusumabhṛṁgaṁ durāśāṁtaraṁgaṁ</l>
+          <l>varadhūrtaṁ daṁbhakārtaṁ khaḷajanasalilāvartanajñānagartaṁ</l>
+          <l>karuṇī kaikoṁḍu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="52" met="met_value">
+          <l>ghanavennoḷ māṇadī kāmada vikaḷateyī krōdhavī lōbhavī du</l>
+          <l>rmanavī duściṁteyī durmadada mamateyī mōhavīyāseyī du</l>
+          <l>rjanasaṁgaprēmavī matsarada masakavī duḥkhasaṁstōmamaṁ chē</l>
+          <l>daneyaṁ māḍutte paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="53" met="met_value">
+          <l>sale māyāmōhavācchādise neṟe dhṛtigeṭṭeṁ vṛthā dhātugeṭṭeṁ</l>
+          <l>polageṭṭeṁ muṁdugeṭṭeṁ neneyade matigeṭṭeṁ karaṁ buddhigeṭṭeṁ</l>
+          <l>nelegeṭṭeṁ nītigeṭṭeṁ maṟidu mige manaṁgeṭṭenānurbugeṭṭeṁ</l>
+          <l>talegeṭṭeṁ taṁde paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="54" met="met_value">
+          <l>neneveṁ svapnōpamasmārakuviṣayada saṁyōgamaṁ bhōgamaṁ ke</l>
+          <l>mmane nimmī bhaktiyoṁdaṁ neneyenosedu satyatva-nityatvamaṁ yā</l>
+          <l>tanegoṁḍarthārthadiṁdanyarananudinamōraṁte bōdhirpa durbō</l>
+          <l>dhananayyō nōḍi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="55" met="met_value">
+          <l>ēkennaṁ māyeyiṁdaṁ śiva śiva śiva beḷmāḍutirdappe īśā </l>
+          <l>ēkennaṁ nōḍadayyō bhava bhava bhavadoḷ taṁde caṁdrāvataṁsā</l>
+          <l>ēkennaṁ kālaniṁdaṁ hara hara hara nīṁ kāḍutirdappe dēvā</l>
+          <l>lōkaikārādhya paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="56" met="met_value">
+          <l>bhavavēkānēka sattvādiguṇada puduvāḷēkadānēke kāmō</l>
+          <l>tsavavēkānēke tāpatritayada poḍegircēkadānēke kōpō</l>
+          <l>dbhavavēkānēke karmadvayada kaḍudoḍaṁkēkadānēke dēvā</l>
+          <l>bhavakarmadhvaṁsi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="57" met="met_value">
+          <l>adu saṁsārābdhiyaṁ dāṁṭisuvudadu durācāra-durbuddhiyaṁ kī</l>
+          <l>ḷvudu nityaṁ śrīguruśrīpadasarasijamaṁ tōrpudāhā baḷikkaṁ</l>
+          <l>tadu liṁgārūḍhanaṁ māḍuvudu śaraṇasāṁgatyavā saṁgamaṁ piṁ</l>
+          <l>gadavōl nīṁ māḍi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="58" met="met_value">
+          <l>harabhaktar baṁdoḍurbuttavara caraṇamaṁ kaṇgaḷoḷ kaṁṭhadoḷ pē</l>
+          <l>ruradoḷ bhāḷāgradoḷ dōryugadoḷubhayagaṁḍaṁgaḷoḷ tāḷdumettu</l>
+          <l>ttoreyuttapputte higgutta tuḷasukhadoḷāḷuttu mēḷutte bāḷdi</l>
+          <l>rpiravaṁ nīnittu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="59" met="met_value">
+          <l>mṛḍabhakta vrātavānaṁdadoḷidirvare kaṁḍārtadiṁ snēhadiṁ sai</l>
+          <l>geḍedennaiśvaryavennāgina tavanidhiyennāyuvennellamuṁ ni</l>
+          <l>mmaḍigaḷ sarvasvamuṁ nimmaḍigaḷoḍave āṁ kāpināḷeṁdu cittaṁ</l>
+          <l>guḍutirpaṁtittu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="60" met="met_value">
+          <l>mudadiṁdaṁ nimma pūjāracaneyanolaviṁ kaṁḍu sarvajñaniṁto</l>
+          <l>ppidanānaṁdābdhiyiṁtoppidanahidharaniṁtoppidaṁ śaṁbhuviṁto</l>
+          <l>ppidaneṁdaśrupravāhaṁ pariyiḍe puḷakaṁ poṇme saṁstōtramaṁ mā</l>
+          <l>ḷpudanennoḷ kūḍi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="61" met="met_value">
+          <l>adaninnēneṁbenāhā gurutarasukhamaṁ tuṁgabhadrānadītī</l>
+          <l>radoḷirduttuṁgahastaṁ mukulitanayanaṁ bhūtisarvāṁganāgi</l>
+          <l>rdu dayāṁbhōrāśi gaṁgādhara purahara sarvēśaneṁdurbuvā sau</l>
+          <l>khyada percaṁ koṭṭu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="62" met="met_value">
+          <l>enaginneṁteṁba ciṁtāpratati haṟiṁdu hāṟittu kāmakke mōha</l>
+          <l>kkanugeyvoṁdāgrahaṁ kaṭṭane karagittu mātsaryadoṁdujjugaṁ ka</l>
+          <l>ṟaṟane kaṁdittattamittaṁ mige masaguva kōpaṁ karaṁ targi kurgi</l>
+          <l>ttenipaṁdaṁ māḍi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="63" met="met_value">
+          <l>taḷiriṁ pūviṁ phalāvrātadinoṟaguva cūtavrajacchāyeyoḷ kō</l>
+          <l>maḷahaṁsastōmavāmabhramarakuḷavikāsābja kāsāradoḷ ni</l>
+          <l>rmaḷaniṣpaṁdaprakāśasthaḷadoḷamaḷaliṁgārcanāsaktacittō</l>
+          <l>jjvaḷanāgirpaṁte paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="64" met="met_value">
+          <l>atuḷasvacchāṁbuviṁ majjanakeṟedu navīnaprasūnapratāna</l>
+          <l>dyuti suttal sutti nimmaṁ savinuḍi kaviyal baṇṇisutta śrumīṟal</l>
+          <l>nutarōmāṁcaṁgaḷēḷal bemarvani negeyal gadgadaṁ poṇme pūjā</l>
+          <l>tatiyaṁ māḷpaṁte paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="65" met="met_value">
+          <l>naneyuttuṁ pūjisuttuṁ caraṇadoḷalaruttuṁ maraldīkṣisuttuṁ</l>
+          <l>muniyuttuṁ muddisuttuṁ tonedu tavakisutturvutuṁ garvisuttuṁ</l>
+          <l>jinuguttuṁ jīvisuttuṁ dhiṇidhiṇiravadiṁdāḍutuṁ pāḍutirpoṁ</l>
+          <l>danurāgaṁmāḍi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="66" met="met_value">
+          <l>enasuṁ mattanyadaivakkeṟagada siramuṁ nētramuṁ śrōtramuṁ ma</l>
+          <l>nmanamuṁ madbuddhiyuṁ matkarataḷayugamuṁ jihveyuṁ ghrāṇamuṁ mi</l>
+          <l>kkina sarvāṁgaṁgaḷuṁ nimmaye desege karaṁ cēṣṭisuttormeyuṁ ni</l>
+          <l>lvinamennoḷ kūḍi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="67" met="met_value">
+          <l>mudadiṁ tvatkīrtiyaṁ kēḷveḍeyoḷatuḷarōmāṁcadiṁ spaṁdadiṁ ga</l>
+          <l>dgadadiṁ svēdaṁgaḷiṁ kaṁpanadinolaviniṁ līleyiṁ lōbhadiṁ sa</l>
+          <l>nmudadiṁ saṁtōṣadiṁ śāśvatasukhamukhadiṁ śaivasāmrājya samyak</l>
+          <l>padavāṁtirpaṁte paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="68" met="met_value">
+          <l>haranāmaṁ karṇamaṁ tāgida samayadoḷānaṁdadiṁdurki rōmāṁ</l>
+          <l>kuraveḷdaśrupravāhaṁ gaḷagaḷaniḷitaṁdaṁgavallāḍi bhinna</l>
+          <l>svaradiṁdaṁ gadgadaṁ puṭṭute bemarvanigaḷ poṇme sallīleyiṁdi</l>
+          <l>rpiravaṁ nīnittu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="69" met="met_value">
+          <l>manadoḷ vākyaṁgaḷoḷ nōḷpeḍegaḷoḷolaviṁ māḷpakajjaṁgaḷūḷ kā</l>
+          <l>nanadoḷ kāmaṁgaḷoḷ taṇṇeḷaloḷe bisiloḷ jāgradoḷ svapnadoḷ mū</l>
+          <l>rcchaneyoḷ dāridryadoḷ saṁpadadoḷe sukhadoḷ duḥkhadoḷ dēva nimmaṁ</l>
+          <l>neneyuttirpaṁte paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="70" met="met_value">
+          <l>bharadiṁdaṁ bhītiyiṁdaṁ śaraṇavacanadiṁdāseyiṁ bhāṣeyiṁda</l>
+          <l>ccariyiṁ ḍaṁbhiṁ vṛthāḷāpadinasavasadiṁ kāmadiṁ kōpadiṁ kū</l>
+          <l>rpara dākṣiṇyaṁgaḷiṁ khyātiyinanudinavellaṁdadiṁ dēva nimmaṁ</l>
+          <l>smariyippaṁtittu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="71" met="met_value">
+          <l>caduriṁdaṁ vēṣamaṁ tōṟade nijaguṇamaṁ bīṟadatyuṣṇamaṁ hē</l>
+          <l>ṟade ḍaṁbhiṁ sāradeṁtuṁ śaraṇavacanamaṁ mīṟadattittaluṁ jā</l>
+          <l>ṟade bēṟoṁdiccheyiṁ kīṟade paravaśadiṁ tāṟadī bhaktiyaṁ mā</l>
+          <l>ṟade bāḷvaṁtittu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="72" met="met_value">
+          <l>ivanolveṁ dainyamaṁ sūḍade paravadhuvaṁ nōḍadēnoṁdumaṁ bē</l>
+          <l>ḍadeyāraṁ mithyeyiṁ kāḍade parasukhadoḷ bāḍadudrēkadoḷ kō</l>
+          <l>ḍade pāpāṁbhōdhiyoḷ kūḍade capaḷateyaṁ nīḍadatyāśeyaṁ mā</l>
+          <l>ḍade bāḷvaṁtittu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="73" met="met_value">
+          <l>sati kāruṇyaṁ kumāraṁ mati sakhanurusatyaṁ pradhānaṁ vivēkaṁ</l>
+          <l>stuti bhaṁḍāraṁ sudharmaṁ karituragarathākhyaṁ nirāśā-svadēśaṁ</l>
+          <l>satataṁ tānāgi śāṁtisthaladoḷeseva sadbhakti saptāṁgarājya</l>
+          <l>sthitanāgirpaṁte paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="74" met="met_value">
+          <l>guruvaṁ naṁbirdu mattā gurukaruṇade paṁcākṣarīmaṁtramaṁ tā</l>
+          <l>ḷdu rahasyaṁ bhaktiyiṁdaṁ japamaneṇisi gurvājñeyaṁ mīṟadatyā</l>
+          <l>daradiṁdaṁ nettiyoḷ potta nupamasukhadiṁ bāḷva bhṛtyatvamaṁ ma</l>
+          <l>dguruvē nīnittu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="75" met="met_value">
+          <l>alariṁ kūrtiṭṭoḍaṁ cakradinuṟe muḷidaṁtiṭṭoḍaṁ haṁsatūla</l>
+          <l>sthaladoḷ tāṁ baitoḍaṁ muḷgaḷa hosahaseyoḷ baitoḍaṁ snēhadiṁdaṁ</l>
+          <l>nalaviṁdaṁ stōtramaṁ māḍidoḍe paḷidoḍaṁ sarvamoṁdaṁda meṁdāṁ</l>
+          <l>sale kāṇbaṁtittu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ </l>
+        </lg>
+        <lg n="76" met="met_value">
+          <l>esevī paṁcākṣarīmaṁtrame gurutaramaṁtraṁ viśuddhāṁgalēpaṁ</l>
+          <l>bhasitaṁ rudrākṣiyē bhūṣaṇatati paramasvāmi nīṁ pūjyanānaṁ</l>
+          <l>dasamētaṁ bhaktanē satkulajanenisidaṁ naṁbi mattēnuvaṁ bhā</l>
+          <l>visadirpaṁtittu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="77" met="met_value">
+          <l>karevalliṁ munnavō ō magane magane baṁdeṁ diṭaṁ baṁdeneṁdā</l>
+          <l>daradiṁdaṁ nīne baṁdenna vayavananitaṁ muṭṭi noṁdā baḷaldā</l>
+          <l>karedā kaṁdā enuttuṁ kṛpe mige nalaviṁ nōḍi muṁḍāḍuteṁduṁ</l>
+          <l>siradoḷ kaiyikki paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="78" met="met_value">
+          <l>nimagennaṁ māṟugoṭṭiṁ purahara nimagennaṁ sadā toḷtugoṭṭiṁ</l>
+          <l>nimagennaṁ sūṟegoṭṭiṁ nimage haruṣadiṁdoccataṁ koṭṭenāhā</l>
+          <l>nimagennaṁ maccugoṭṭiṁ guruve ghanave saṁtōṣadiṁdoppugoṭṭiṁ</l>
+          <l>nimagennaṁ dēva paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="79" met="met_value">
+          <l>mudadiṁdaṁ kāmamaṁ kōpamanuṟe jaṟedā mōhamaṁ dāṁṭi lōbha</l>
+          <l>tvada bēraṁ kiḷtu mātsaryamanuḍugi madālēpamaṁ tīrciyāśā</l>
+          <l>sadanakkāsattu bēsatta tuḷaśi vasukhāvāsadoḷ bhaktiyiṁ tvat</l>
+          <l>padamaṁ sārvaṁte paṁpāpuradarasa virūpākṣa rakṣippudennaṁ </l>
+        </lg>
+        <lg n="80" met="met_value">
+          <l>enagār daivaṁ virūpākṣane guruvenagāvaṁ virūpākṣanē kēḷ</l>
+          <l>janakaṁ tānār virūpākṣane jananiyadāvaḷ virūpākṣanē ā</l>
+          <l>ḷdanadāvaṁ śrīvirūpākṣane nijasakhanāvaṁ virūpākṣanē eṁ</l>
+          <l>binitaṁ saitittu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="81" met="met_value">
+          <l>manedaivaṁ mukhyadaivaṁ sukhatarakuladaivaṁ parānaṁdadaivaṁ</l>
+          <l>manadoḷ naṭṭarpa daivaṁ śaraṇajanamahōtsāhadaivaṁ karaṁ peṁ</l>
+          <l>pina daivaṁ daivadaivaṁ sakalasukṛtadaivaṁ sudhākāradaivaṁ</l>
+          <l>ghanadaivaṁ nīne paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="82" met="met_value">
+          <l>paramārthaṁ nimma sammak parataranijamaṁ bhāvisal baṇṇisal tā</l>
+          <l>marasōdbhūtaṁge śakraṁgasuraripuge vēdakatarkyaṁdaleṁdaṁ</l>
+          <l>dorevaṁtāṁ martyaneṁbī vacaname parihāsāspadaṁ dēva nīnē</l>
+          <l>karuṇaṁgeyyutte paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="83" met="met_value">
+          <l>bisavaṁ tāḷdirdu nityaṁ smarananuripiyuṁ kāmi sarvēśvaraṁ ma</l>
+          <l>ttasamaṁ bhikṣēśvaraṁ sarvamanaḷidanaghaṁ caṁdranaṁ sūḍiyuṁ kō</l>
+          <l>pasamāyuktaṁ viruddhaprakṛti tiḷiyadārgaṁ kṛpāvārdhi ninnaṁ</l>
+          <l>ghrisarōjaṁdōṟi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="84" met="met_value">
+          <l>sthiravallaṁ nōḍe sargasthitilayamayavāgirpudiṁtī prapaṁcaṁ</l>
+          <l>sthirarūpaṁ nīne karmadvitayavirahitaṁ nīne śuddhātmakaṁ nī</l>
+          <l>ne rasādivyōmadikpūrita nijanidhi nīneṁbabhijñānamaṁ mad</l>
+          <l>guruvē nīnittu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="85" met="met_value">
+          <l>aparicchinnaṁ svataṁtraṁ niravadhiyamaḷaṁ śaṁkaraṁ nityanānaṁ</l>
+          <l>dapadaṁ śāṁtārkakōṭiprabhanajaranaciṁtyaṁ paraṁdhāmarūpaṁ</l>
+          <l>vipuḷajñānābdhi satyaṁ nirupamanidhi nīneṁbabhijñānamaṁ nīṁ</l>
+          <l>kṛpeyaṁ māḍutte paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="86" met="met_value">
+          <l>sthūlaṁ sūkṣmaṁ susūkṣmaṁ sulabhanasulabhaṁ puṇyapāpapradūraṁ</l>
+          <l>nīlagrīvaṁ cidātmaṁ bhavanabhavananūnādyanādyaṁtaśūnyaṁ</l>
+          <l>kālaghnaṁ kālarūpaṁ natanikaravipajjālavicchēdalīlā</l>
+          <l>lōlaṁ nīṁ nīne paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="87" met="met_value">
+          <l>śiva sarvādhāra gaṁgādhara purahara sarvajña sarvēśa gaurī</l>
+          <l>dhava nīlagrīva kālāṁtaka paśupati phālākṣa bhōgīṁdrabhūṣā</l>
+          <l>bhava rudrēśāna bharga pramathanidhi mahādēva mārāri nityō</l>
+          <l>tsava satyaprēmi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="88" met="met_value">
+          <l>giriśa śrīkaṁṭha dakṣādhvarahara vṛṣabhārūḍha kāpāliyaṁdhā</l>
+          <l>suravairi vyōmakēśa kratukulanṛpati sthāṇu bhūtēśa paṁcā</l>
+          <l>varaṇapratyakṣa paṁcānana mṛḍa gajacarmāṁbaraśrēṣṭha viśvō</l>
+          <l>dara sadyōjāta paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="89" met="met_value">
+          <l>hara bhīma tryakṣa bhakta vrajahṛdaya pināki triśūli trikālā</l>
+          <l>kṣara nirdēhābhavā dhūrjaṭi jaṭilaśirōmāli śaṁbhu prapaṁcō</l>
+          <l>ttara paṁcabrahma paṁcādhika himakara cūḍāmaṇī vīrabhadrē</l>
+          <l>śvara kālātīta paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="90" met="met_value">
+          <l>varakāruṇyābdhi ṣaḍdarśanahita paramasvāmi sarvajña paṁcā</l>
+          <l>kṣaragarbhāvāsa mādyatpramathajanaparītōṣa viśvēśa tattvā</l>
+          <l>kara tārādrīśa nārāyaṇanayanalasatpāda nādātma bhaktā</l>
+          <l>turacitta grāhi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="91" met="met_value">
+          <l>śiva nimmiṁ puṭṭitī māye gaḍenipidanāṁ sairiseṁ puṭṭateṁboṁ</l>
+          <l>davicāraṁ niṣkriyātmaprabhutanake karaṁ hāni śuddhātmanoḷ śaṁ</l>
+          <l>bhuvinoḷ samyakparānaṁdada tavanidhiyoḷ ninnoḷī bhrāṁtiyeṁbā</l>
+          <l>śraveyaṁ targotti paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="92" met="met_value">
+          <l>modaliṁdaṁ kūrmarōmaṁ bageye śaśiviṣāṇaṁ viyatpuṣpadaṁti</l>
+          <l>lladudē satyaṁ prapaṁceṁdaṟidu tiḷidu niṣkāma nirmāya nityā</l>
+          <l>bhyudayānaṁdaikatējōnidhi nirupama nirlēpa nirvāṇa nīneṁ</l>
+          <l>bidanē saitittu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="93" met="met_value">
+          <l>tōṟuttirpī jagaṁ tānaṟivina mukhadoḷ tōṟadirpaṁte tōrkuṁ</l>
+          <l>tōṟal pēḷalke kēḷalkasadaḷamenipā brahmatābrahmavāgu</l>
+          <l>ttāṟuṁ baṇṇakkamēḷuṁ tanuvina poregeṁṭuṁ śarīrakke mikkuṁ</l>
+          <l>mīṟirpaṁtittu paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="94" met="met_value">
+          <l>toḷaguttirparkaniṁdāgasavenitanitaṁ māḍidaṁtirpa dhātrī</l>
+          <l>taḷamellaṁ caṁdraniṁdaṁ samedudenisidaṁtirpa diksaṁkuḷaṁ ni</l>
+          <l>rmaḷavidyullēkheyiṁ nirmisidavolesedirpā paraṁjyōtiyennoḷ</l>
+          <l>beḷaguttirpaṁte paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="95" met="met_value">
+          <l>guruviṁ śuddhātmanādeṁ guruvina kṛpeyiṁdaṁ jagatpūjyanādeṁ</l>
+          <l>guruviṁ niṣkāmanādeṁ ghanataraguruviṁ śāṁtisaṁpannanādeṁ</l>
+          <l>guruviṁ sarvajñanādeṁ diṭavenisidanennoḷ diṭaṁ māḍutuṁ mad</l>
+          <l>guruvē gaurīśa paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="96" met="met_value">
+          <l>ennānaṁdābdhiyē ennanupamasudheyē enna puṇyasvarūpē</l>
+          <l>ennāyuḥpuṁjavē ennaye gatimatiyē enna vijñānamūrtī</l>
+          <l>ennatyāścaryavē ennatiśayaguruvē enna caitanyadāgē</l>
+          <l>enna prāṇēśa paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="97" met="met_value">
+          <l>nityajñānaikamūrtī sukhataraparamānaṁda sarvajñamūrtī</l>
+          <l>nityatvādhāramūrtī niravayavamahāmūrti nirlēpamūrtī</l>
+          <l>nityapratyakṣamūrtī nikhilaguṇagaṇādhāra nirmāyamūrtī</l>
+          <l>nityaśrīmūrti paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="98" met="met_value">
+          <l>biḍenīśā nimma pādābjamanelele biḍeṁ sīḷdoḍaṁ pōḷdoḍaṁ po</l>
+          <l>ydoḍamaṁdiṁdeṁdumeṁtuṁ biḍenabhava biḍeṁ śaṁkarā māṇenāṁ bal</l>
+          <l>viḍideṁ mattattamittaṁ caliyisadele matsvāmi nimmājñeyiṁdaṁ</l>
+          <l>mṛḍanē bhaktārthi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="99" met="met_value">
+          <l>kartāraṁ nīne paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+          <l>bhartāraṁ nīne paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+          <l>hartāraṁ nīne paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+          <l>kūrtiṁtōraṁte paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="100" met="met_value">
+          <l>bharadiṁ kēḷdōduvānaṁdadoḷatiśayadiṁ macci lālippavargā</l>
+          <l>daradiṁ nityāyuvaṁ saṁpadavanabhavanīyuttu mirkeṁdanūnaṁ</l>
+          <l>dhareyoḷ kaikoṁḍu rakṣāśatakavanolaviṁ prēmadiṁ nacci pēḷdaṁ</l>
+          <l>haridēvaṁ dēva paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+        </lg>
+        <lg n="101" met="met_value">
+          <l>piṁdēnēnāgi baṁdeṁ manujajananamuṁtānideṁtāytu saṁsā</l>
+          <l>raṁ dōṣaṁ kāmalōbhādigaḷenagamivelliṁde baṁdattu mattaṁ</l>
+          <l>muṁdēnādappeneṁdānaṟiyade bhayadiṁ śaṁkisuttirdapeṁ nīṁ</l>
+          <l>saṁdēhaṁ māḍi paṁpāpuradarasa virūpākṣa rakṣippudennaṁ</l>
+		</lg>
+		</div>
+    </body>
+  </text>
+</TEI>
