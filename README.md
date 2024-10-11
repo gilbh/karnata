@@ -1,4 +1,4 @@
-# karnata Centre for Classical Kannada
+# _karṇāṭa_ Centre for Classical Kannada
 
 ## Digital content
 
