@@ -6,15 +6,25 @@
         <title type="main" xml:lang="kan-Latn">Harihara-Pampashatakam</title>
         <author xml:lang="kan-Latn">Pampa</author>
         <principal>
-          <persName xml:id="AO" ref="http://viaf.org/viaf/372149294434280521495">
-            <forename>Andrew</forename>
-            <surname>Ollett</surname>
+          <persName> 
+            <forename>Gil</forename>
+            <surname>Ben-Herut</surname>
           </persName>
-        </principal>
-        <respStmt>
+          </principal>
+          <respStmt>
           <resp>Typing and proofreading</resp>
-          <orgName>Adishila Publications</orgName>
-          <persName>Krishnaprasada G.</persName>
+          <orgName>Karṇāṭa: Centre for Classical Kannada</orgName>
+          <persName>R.V.S. Sundaram</persName>
+        </respStmt>
+        <respStmt>
+          <resp>TEI tagging</resp>
+          <orgName>Karṇāṭa: Centre for Classical Kannada</orgName>
+          <persName>Yash Rathi</persName>
+        </respStmt>
+        <respStmt>
+          <resp>TEI tagging<resp>
+          <orgName>Karṇāṭa: Centre for Classical Kannada</orgName>
+          <persName>Mackenzie G. Haight</persName>
         </respStmt>
       </titleStmt>
     </fileDesc>
